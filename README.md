@@ -13,12 +13,17 @@ EE Profª Silvia Aparecida - Ensino fundamental Anos Finais - Taboão da Serra.
 
 EM Profª Valdelice Aparecida Medeiros Prass - Ensino Fundamental Anos Finais - Embu das Artes.
 
+🔭 **Interesses Atuais:**
+
+            <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+
 <!--
 **Valdeci-Embu/Valdeci-Embu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
