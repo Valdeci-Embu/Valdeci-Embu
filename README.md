@@ -40,7 +40,7 @@ EM Profª Valdelice Aparecida Medeiros Prass - Ensino Fundamental Anos Finais - 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 <a href ="https://instagram.com/evaldeci?igshid=M2RkZGJiMzhjOQ==" >
-    <img src="https://https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href ="https://x.com/valdeciembu?t=6wuxGTxJKzR1Hibdjqt29g&s=09" >
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
