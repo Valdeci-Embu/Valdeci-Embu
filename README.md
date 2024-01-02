@@ -36,6 +36,19 @@ EM Profª Valdelice Aparecida Medeiros Prass - Ensino Fundamental Anos Finais - 
 <a href ="http://www.linkedin.com/in/" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href ="https://www.facebook.com/valdeci.embu?mibextid=ZbWKwL" >
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+</a>
+<a href ="https://instagram.com/evaldeci?igshid=M2RkZGJiMzhjOQ==" >
+    <img src="https://https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href ="https://x.com/valdeciembu?t=6wuxGTxJKzR1Hibdjqt29g&s=09" >
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
+<a href ="https://www.tiktok.com/@professor.valdeci?_t=8hTWeF3GmpR&_r=1" >
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+</a>
+
           
 
 
