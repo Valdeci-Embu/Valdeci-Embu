@@ -1,4 +1,4 @@
-###Olá, meu nome é Valdeci, sou professor de matemática no ensino fundamental.
+### Olá, meu nome é Valdeci, sou professor de matemática no ensino fundamental.
 Tenho muito interesse por Análise e Ciência de Dados. Também estou interessado em criação de sites.
 Tenho alguma noção de HTML, CSS, JavaScript e PHP, mas me voltei para a linguagem Python, por ser muito utilizada em análise de dados.👋
 
