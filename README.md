@@ -1,4 +1,6 @@
-Olá, meu nome é Valdeci, sou professor de matemática no ensino fundamental e me interesso por Anális e Ciência de Dados e Criação de sites👋
+###Olá, meu nome é Valdeci, sou professor de matemática no ensino fundamental.
+Tenho muito interesse por Análise e Ciência de Dados. Também estou interessado em criação de sites.
+Tenho alguma noção de HTML, CSS, JavaScript e PHP, mas me voltei para a linguagem Python, por ser muito utilizada em análise de dados.👋
 
 <!--
 **Valdeci-Embu/Valdeci-Embu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
