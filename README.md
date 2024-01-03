@@ -9,9 +9,9 @@ Tenho alguma noção de HTML, CSS, JavaScript e PHP, mas me voltei para a lingua
 ![Imagem do WhatsApp de 2024-01-02 à(s) 13 03 41_97a872e9](https://github.com/Valdeci-Embu/Valdeci-Embu/assets/118638980/be794cbc-6d83-44ba-8c33-5afda7efcac8)
 Trabalhos atuais:
 
-EE Profª Silvia Aparecida - Ensino fundamental Anos Finais - Taboão da Serra.
+EE Profª Silvia Aparecida - Ensino fundamental Anos Finais - Matemática 7º e 9º anos e Educação Financeira 8º ano- Taboão da Serra.
 
-EM Profª Valdelice Aparecida Medeiros Prass - Ensino Fundamental Anos Finais - Embu das Artes.
+EM Profª Valdelice Aparecida Medeiros Prass - Ensino Fundamental Anos Finais -  Matemática 7º e 9º anos - Embu das Artes.
 
 🔭 **Interesses Atuais:**
 
