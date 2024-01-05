@@ -1,10 +1,10 @@
 ### Olá, meu nome é Valdeci, sou professor de matemática no ensino fundamental 👋.
 Tenho muito interesse por Análise e Ciência de Dados. Também estou interessado em criação de sites.
-Tenho alguma noção de HTML, CSS, JavaScript e PHP, mas me voltei para a linguagem Python, por ser muito utilizada em análise de dados.
+Tenho alguma noção de HTML, CSS, JavaScript e PHP, mas me voltei para a linguagem Python, por ser muito utilizada em análise de dados. Para análise de dados estou usando muito o **Pandas**, associado ao **Power BI**, para fazer os dashboards. Outra linguagem que me interessei é a **R**, usando o *RStudio*, linguagem voltada para estatística. 
 
 👨🏼‍🎓Licenciado em Matemática pelo Instituto de Matemática e Estatistica (IME) da Universidade de São Paulo (USP).
 
-👨🏻‍💻Informática: Curso de Python da Hashtag Treinamentos, concluido em dez/2023.
+👨🏻‍💻Informática: Curso de Python da Hashtag Treinamentos, concluido em dez/2023. ***Outros cursos:*** Cursos de python da Udemy/GeekUniversity, Curso em Vídeo, Alfamidia; Cursos de HTML/CSS da Upinside, Alfamidia, Udemy/GeekUniversity. entre outros; Cursos de lógica de programação, Curso de Power BI da Hashtag Treinamentos em andamento.
 
 ![Imagem do WhatsApp de 2024-01-02 à(s) 13 03 41_97a872e9](https://github.com/Valdeci-Embu/Valdeci-Embu/assets/118638980/be794cbc-6d83-44ba-8c33-5afda7efcac8)
 Trabalhos atuais:
